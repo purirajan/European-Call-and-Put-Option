@@ -1,5 +1,4 @@
-Author: Rajan Puri
-"""---------------------------------------------------------------------------------------------
+
 	Purpose:  This program will find the value of the European call and put option according to the 
                  Finite difference method.
 	            
@@ -36,4 +35,3 @@ Author: Rajan Puri
                  choices of domain discretisation.Though Implicit Euler and Crank-Nicolson involve 
                  solving linear systems of equations,they are each unconditionally stable with respect
                  to the domain discretisation. 
-	---------------------------------------------------------------------------------------------"""
