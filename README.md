@@ -1,6 +1,4 @@
-#File: ExplicitFDMMain.py
-#Author: Rajan Puri
-
+Author: Rajan Puri
 """---------------------------------------------------------------------------------------------
 	Purpose:  This program will find the value of the European call and put option according to the 
                  Finite difference method.
